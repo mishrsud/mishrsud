@@ -15,8 +15,9 @@ C#, .NET Core, Docker/Containers, AWS, Azure, Event-Driven Microservices
   - The long term effect of the delivered software is its **Impact**
 
 ## My Social handles and contact information
+- [Website and Blog](https://www.sudhanshutheone.com)
 - [Twitter (sudhanshutheone)](https://twitter.com/sudhanshutheone)
 - [GitHub (mishrsud)](https://github.com/mishrsud)
-- [Stack Overflow (dotnetguy)](https://stackoverflow.com/users/190476/dotnetguy)
+- [Stack Overflow (sudhanshu-mishra)](https://stackoverflow.com/users/190476/sudhanshu-mishra)
 - [LinkedIn (sudhanshutheone)](https://www.linkedin.com/in/sudhanshutheone/)
 - [Keybase (sudhanshutheone)](https://keybase.io/sudhanshutheone)
